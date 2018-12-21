@@ -1,6 +1,6 @@
 hello
 =====
 
-first task
+first task.
 
 READ ME
